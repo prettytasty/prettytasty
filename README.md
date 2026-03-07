@@ -4,7 +4,7 @@
 Game Web Dev
 ------------
 
-Hi i am Tyson and T like coding,i started when i was 5 and i know C,C#,Python,javascript and i suck at spelling i like chess and badminton :)
+Hi i am Tyson and I like coding,I started learning to code when i was 5 and i know C,C#,Python,javascript and i suck at spelling i like chess and badminton :)
 
 Am work on ratkebab with my friends please support
 Game link: https://prettytasty.github.io/Rateater/
